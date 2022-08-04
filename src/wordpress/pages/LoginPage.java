@@ -24,6 +24,7 @@ public class LoginPage {
 	
 	public void typeUserName()
 	{
+		//hello world
 		driver.findElement(username).sendKeys("admin");
 	}
 	public void typeUserName(String Uname)
